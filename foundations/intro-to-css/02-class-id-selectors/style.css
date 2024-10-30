@@ -11,3 +11,9 @@ p{
 .odd_font_size{
     font-size:24px;
 }
+
+#odd_bg_size{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
