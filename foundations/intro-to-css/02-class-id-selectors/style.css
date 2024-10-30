@@ -1,4 +1,10 @@
 p{
     background-color:pink;
-    font-family: Verdana, Dejau Sans, sans-serif;
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
+
+#f_color_size{
+    color:blue;
+    font-size:36px;
+}
+
